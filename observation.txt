@@ -1,0 +1,1 @@
+I have done using position. I have related the position for each buttons separately and then for each buttons location it checks whether its neighbour button is a neighbour or not and then correspondingly changes the label for each button.
